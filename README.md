@@ -1,6 +1,3 @@
-# olympic
-olympic data analysis
-
 # Olympic Games Analysis Dashboard
 
 ## Overview
